@@ -10,7 +10,7 @@ I build AI products and ship them to real users. Self-taught, based in Barcelona
 
 ## Stack
 
-Next.js and TypeScript on the front. FastAPI (Python) on Google Cloud Run for the heavy work. Postgres and Supabase. LLM agents with LangGraph, LangChain and the Vercel AI SDK. I code with Claude Code and Codex and review what they write.
+React and TypeScript on the front. FastAPI (Python) on Google Cloud Run for the heavy work. Postgres and Supabase. LLM agents with LangGraph, LangChain and the Vercel AI SDK. I code with Claude Code and Codex and review what they write.
 
 ## Selected contributions
 
@@ -21,10 +21,6 @@ Merged into [Levante](https://github.com/levante-hub/levante), an open-source de
 - [#242](https://github.com/levante-hub/levante/pull/242) - per-response model usage tracking backed by Supabase.
 - [#238](https://github.com/levante-hub/levante/pull/238) - native file picker, sidebar improvements and i18n.
 
-## Other work
-
-[Toon-Lab](https://github.com/aalejandrossj/Toon-Lab) - a small LangGraph experiment comparing how an LLM handles the same data as JSON and as TOON.
-
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/alejandro-gomez-cerezo) · alejandro@invisor.es
+[LinkedIn](https://linkedin.com/in/alejandro-gomez-cerezo)
